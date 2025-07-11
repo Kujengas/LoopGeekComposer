@@ -1,6 +1,6 @@
 @LoopGeekComposer.Server_HostAddress = http://localhost:5277
 
-GET {{LoopGeekComposer.Server_HostAddress}}/weatherforecast/
+GET {{LoopGeekComposer.Server_HostAddress}}/chordprogression/
 Accept: application/json
 
 ###
